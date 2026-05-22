@@ -3,6 +3,7 @@
 
   <remove-project name="platform/packages/apps/GameSpace" />
   <remove-project name="packages/apps/GameSpace" />
+  <remove-project name="packages_apps_GameSpace" />
   <remove-project name="platform/packages/apps/Aperture" />
   <remove-project name="platform/packages/apps/Camera2" />
 
